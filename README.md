@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 안녕하세요, 꾸준히 성장하는 개발자 박성혁입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> ✅ 삼성 청년 SW 아카데미 11기 수료(2024.01 ~ 2024.12)</li></li></li>✅ 한양대학교 관광학부(주), 빅데이터융합학과(복수) 전공(2016.03 ~ 2023.08)</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> ✅ 삼성 청년 SW 아카데미 11기 수료(2024.01 ~ 2024.12)</li></li></li><br>✅ 한양대학교 관광학부(주) / 빅데이터융합학과(복수) 전공(2016.03 ~ 2023.08)</li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -29,4 +29,3 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldenkiwi-hyeuk&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-    
